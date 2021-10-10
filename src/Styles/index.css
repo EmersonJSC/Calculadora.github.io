@@ -1,0 +1,113 @@
+/* style page Screens/Index.js */
+/* import */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,500;1,700;1,900&display=swap');
+
+body{
+    height: 100vh;
+    background-color: #CDF0EA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Calc_box_container{
+    width: 400px;
+    height: 700px;
+    background-color: #F6C6EA;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #000;
+}
+.visor{
+    width: 100%;
+    height: 30%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    flex-direction: column;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    
+}
+.history, .result{
+    color: #C490E4;
+}
+
+/* Fonts */
+.font_robotoRegular{
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 400;
+}
+.font_robotoBold{
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 600;
+}
+
+/* buttons */
+.buttonsView{
+    width: 100%;
+    height: 70%;
+    border-radius: 20px;
+    display: grid;
+    place-items: center;
+    grid-template-rows: auto auto;
+}
+.buttonColuns{
+    display: grid;
+    place-items: center;
+    grid-template-columns: auto auto auto auto;
+}
+.buttonColunsTree{
+    display: grid;
+    place-items: center;
+    grid-template-columns: auto auto auto ;
+}
+
+.buttonCalc{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 25pt;
+}
+.buttonCalc:hover{
+    background-color: #C490E4;
+    color: #F9F9F9;
+}
+
+.buttonBig{
+    width: 180px;
+    height: 70px;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30pt;
+}
+
+/*backgrounds button*/
+.buntonBackPurple{
+    background-color: #C490E4 ;
+}
+.buntonBackPurple:hover{
+    background-color: #F9F9F9 ;
+    color: #000;
+}
+.buntonBackWhite{
+    background-color: #F9F9F9 ;
+}
+.buntonBackWhite:hover{
+    background-color: #C490E4 ;
+    color: #F9F9F9;
+}
+/* Colors Button */
+.buttonColorPurple{
+    color: #C490E4;
+}
+.buttonColorWhite{
+    color: #fff;
+}
+/* debug para facilitar visão */
+.debug{
+    background-color: azure;
+}
