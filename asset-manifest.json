@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/calculadora.github.io/static/css/main.e74b7312.chunk.css",
-    "main.js": "/calculadora.github.io/static/js/main.8171e2cd.chunk.js",
-    "main.js.map": "/calculadora.github.io/static/js/main.8171e2cd.chunk.js.map",
+    "main.css": "/calculadora.github.io/static/css/main.e242bc31.chunk.css",
+    "main.js": "/calculadora.github.io/static/js/main.a071b5fe.chunk.js",
+    "main.js.map": "/calculadora.github.io/static/js/main.a071b5fe.chunk.js.map",
     "runtime-main.js": "/calculadora.github.io/static/js/runtime-main.a040744b.js",
     "runtime-main.js.map": "/calculadora.github.io/static/js/runtime-main.a040744b.js.map",
     "static/css/2.41953c31.chunk.css": "/calculadora.github.io/static/css/2.41953c31.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.c1ff965b.chunk.js.map": "/calculadora.github.io/static/js/3.c1ff965b.chunk.js.map",
     "index.html": "/calculadora.github.io/index.html",
     "static/css/2.41953c31.chunk.css.map": "/calculadora.github.io/static/css/2.41953c31.chunk.css.map",
-    "static/css/main.e74b7312.chunk.css.map": "/calculadora.github.io/static/css/main.e74b7312.chunk.css.map",
+    "static/css/main.e242bc31.chunk.css.map": "/calculadora.github.io/static/css/main.e242bc31.chunk.css.map",
     "static/js/2.dc3b1ae2.chunk.js.LICENSE.txt": "/calculadora.github.io/static/js/2.dc3b1ae2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a040744b.js",
     "static/css/2.41953c31.chunk.css",
     "static/js/2.dc3b1ae2.chunk.js",
-    "static/css/main.e74b7312.chunk.css",
-    "static/js/main.8171e2cd.chunk.js"
+    "static/css/main.e242bc31.chunk.css",
+    "static/js/main.a071b5fe.chunk.js"
   ]
 }
